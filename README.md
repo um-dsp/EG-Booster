@@ -1,5 +1,5 @@
 # EG-Booster: Explanation-Guided Booster of ML Evasion Attacks
-This repository contains the source code accompanying our paper EG-Booster: Explanation-Guided Booster of ML Evasion Attacks.
+This repository contains the source code accompanying our ACSAC'21 paper [EG-Booster: Explanation-Guided Booster of ML Evasion Attacks]( https://arxiv.org/abs/2108.13930).
 
 ## Used system
 - Linux
