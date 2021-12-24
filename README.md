@@ -28,3 +28,7 @@ Note: to avoid any runtime and memory-related errors please adjust ```batch_size
 Finally, run the following:
 
 ```$ python CIFAR10.py```
+
+
+### Contact
+Abderrahmen Amich: aamich@umich.edu
